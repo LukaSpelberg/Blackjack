@@ -1,7 +1,9 @@
 html {
-    background-image: url("pokerbg.jpg");
+    background-image: url("/images/pokerbg.jpg");
+    background-size: cover;
     font-family: "REM", sans-serif;
     font-optical-sizing: auto;
+    color:#e6e6e6;
 }
 
 
@@ -91,7 +93,7 @@ html {
 }
 
 #popUpContent {
-    background-color: orange;
+    background-color: rgb(41, 40, 38);
     width: 25em;
     height: 25em;
 }
@@ -139,6 +141,7 @@ html {
     max-width: 600px;
     padding: 20px;
     border: 3px solid black;
+    background-color: rgb(26, 25, 25);
     
 }
 
