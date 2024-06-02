@@ -36,7 +36,7 @@ function handWaarde(hand, speler) {
         if (kaartWaarde == "A") {
             waarde += 11;
             aas += 1;
-        } else if (kaartWaarde == "K" || kaartWaarde === "Q" || kaartWaarde === "J") {
+        } else if (kaartWaarde == "K" || kaartWaarde === "Q" || kaartWaarde === "J" || kaartWaarde === "0") {
             waarde += 10;
         } else {
             waarde += parseInt(kaartWaarde);
