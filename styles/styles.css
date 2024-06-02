@@ -1,5 +1,5 @@
 html {
-    background-image: url("/images/pokerbg.jpg");
+    background-image: url("images/pokerbg.jpg");
     background-size: cover;
     font-family: "REM", sans-serif;
     font-optical-sizing: auto;
